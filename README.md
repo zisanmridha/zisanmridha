@@ -1,20 +1,14 @@
 ## Hi there 👋
-
-<!--
-**zisanmridha/zisanmridha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Zisan Mridha
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+🔭 I’m currently working on Web Development Projects
+🌱 I’m currently learning JavaScript
+👯 I’m looking to collaborate on Web Development Projects
+💬 Ask me about Web Development
+📫 How to reach me: Google it "Zisan Mridha"
+😄 Pronouns: He/him
+⚡ Fun fact: I Love Code
 
 
 ## 🌐 Socials:
